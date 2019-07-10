@@ -1,0 +1,10 @@
+- src: https://github.com/thuetz/galaxy_vim
+  version: "1.0.0"
+  name: vim_role
+- src: https://github.com/thuetz/galaxy_borgbackup
+  version: "1.0.0"
+  name: borgbackup_role
+- src: https://github.com/thuetz/galaxy_docker
+  version: "1.0.0"
+  name: docker_role
+

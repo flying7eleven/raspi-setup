@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  connection: local
+  roles:
+    - borgbackup_role
+    - docker_role
+    - vim_role
